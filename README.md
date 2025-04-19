@@ -1,6 +1,3 @@
----
-
-```markdown
 # ✈️ Customer Booking Prediction using Random Forest
 
 This project builds a machine learning model to predict whether a customer will complete a booking or not based on travel-related features. The model is trained using a Random Forest classifier after extensive data preparation and feature engineering.
